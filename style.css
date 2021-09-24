@@ -72,7 +72,7 @@ button{
 }
 .mole{
     background-image: url('https://i.ibb.co/Yywfr6D/roach.png');
-    background-size: cover;
+    background-size: contain;
     display: block;
 }
 
@@ -83,7 +83,7 @@ button{
  
 }
 @media screen and (max-width:500px){
-    h1{
+    .top h1{
        font-size: 1rem;
     }
  
